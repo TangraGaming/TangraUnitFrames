@@ -1,7 +1,7 @@
 ## Interface: 100105
-## Title: Shadowed Unit Frames
-## Notes: Moooooooooooooooooo
-## Author: Shadowed
+## Title: Tangra Unit Frames
+## Notes: Simple Unit Frames bases on Shadowed Unit Frames 
+## Author: TangraGaming
 ## Version: @project-version@
 ## SavedVariables: ShadowedUFDB
 ## X-Website: https://www.wowace.com/addons/shadowed-unit-frames/
@@ -29,8 +29,8 @@ localization\ruRU.lua
 localization\zhCN.lua
 localization\zhTW.lua
 
-ShadowedUnitFrames.xml
-ShadowedUnitFrames.lua
+TangraUnitFrames.xml
+TangraUnitFrames.lua
 modules\helpers.lua
 modules\units.lua
 modules\layout.lua
