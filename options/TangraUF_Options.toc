@@ -1,9 +1,9 @@
 ## Interface: 100105
-## Title: Shadowed UF (Options)
-## Notes: Configuration for Shadowed Unit Frames.
-## Author: Shadowed
+## Title: Tangra UF (Options)
+## Notes: Configuration for Tangra Unit Frames. Based on the work of Shadowed Unit Frames
+## Author: TangraGaming 
 ## LoadOnDemand: true
-## Dependencies: ShadowedUnitFrames
+## Dependencies: TangraUnitFrames
 
 #@no-lib-strip@
 libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
