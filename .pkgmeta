@@ -1,7 +1,7 @@
 package-as: TangraUnitFrames 
 
 move-folders:
-  TangraUnitFrame/options: TangraUF_Options
+  TangraUnitFrames/options: TangraUF_Options
 
 externals:
     libs/LibStub:
