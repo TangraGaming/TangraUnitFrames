@@ -1,4 +1,4 @@
-## Interface: 100105
+## Interface: 100205
 ## Title: Tangra UF (Options)
 ## Notes: Configuration for Tangra Unit Frames. Based on the work of Shadowed Unit Frames
 ## Author: TangraGaming 
