@@ -49,6 +49,7 @@ read_globals = {
 	"CreateFrame",
 	"GetArenaOpponentSpec",
 	"GetBuildInfo",
+	"GetClassAtlas",
 	"GetComboPoints",
 	"GetInventoryItemTexture",
 	"GetLocale",
@@ -222,8 +223,7 @@ read_globals = {
 	"SPEC_PALADIN_RETRIBUTION",
 	"SPEC_PRIEST_SHADOW",
 	"SPEC_WARLOCK_DESTRUCTION",
-	"STAGGER_RED_TRANSITION",
-	"STAGGER_YELLOW_TRANSITION",
+	"STAGGER_STATES",
 	"STANDARD_TOTEM_PRIORITIES",
 	"TextureKitConstants",
 }
