@@ -1,7 +1,7 @@
-package-as: ShadowedUnitFrames
+package-as: TangraUnitFrames 
 
 move-folders:
-  ShadowedUnitFrames/options: ShadowedUF_Options
+  TangraUnitFrame/options: TangraUF_Options
 
 externals:
     libs/LibStub:
